@@ -19,7 +19,6 @@ permalink: /
   <li><a href="{{ "/pumpkin-spice-coffee-concentrate/" | relative_url }}">Pumpkin Spice Coffee Concentrate<span class="meta">20 min active / 55 min total</span></a></li>
   <li><a href="{{ "/rose-raspberry-semolina-porridge-with-toasted-seeds/" | relative_url }}">Rose-Raspberry Semolina Porridge with Toasted Seeds<span class="meta">12 min active / 12 min total</span></a></li>
   <li><a href="{{ "/seared-halloumi-with-roasted-beets-orange-and-hazelnut-dukkah/" | relative_url }}">Seared Halloumi with Roasted Beets, Orange and Hazelnut Dukkah<span class="meta">30 min active / 70 min total</span></a></li>
-  <li><a href="{{ "/soy-oat-porridge-with-rhubarb-ginger-compote/" | relative_url }}">Soy-Oat Porridge with Rhubarb-Ginger Compote<span class="meta">20 min active / 25 min total</span></a></li>
   <li><a href="{{ "/spelt-crepes-with-rose-roasted-strawberries/" | relative_url }}">Spelt Crepes with Rose-Roasted Strawberries<span class="meta">20 min active / 30 min total</span></a></li>
   <li><a href="{{ "/tabil-chickpeas-and-spinach-with-crisp-smoked-tofu/" | relative_url }}">Tabil Chickpeas and Spinach with Crisp Smoked Tofu<span class="meta">25 min active / 30 min total</span></a></li>
   <li><a href="{{ "/tofu-a-bras/" | relative_url }}">Tofu a Bras<span class="meta">20 min active / 30 min total</span></a></li>
