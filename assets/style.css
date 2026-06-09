@@ -1,0 +1,81 @@
+/* Miri's Kitchen -- minimal, readable, e-ink-adjacent. */
+:root {
+  --ink: #1a1a1a;
+  --muted: #6a6a6a;
+  --rule: #e0e0e0;
+  --accent: #8a5a2b;
+  --bg: #fbfaf7;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.6;
+}
+main { max-width: 42rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+
+.site-head {
+  max-width: 42rem; margin: 0 auto; padding: 1.25rem 1.25rem 0.5rem;
+}
+.site-head a {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-weight: 600; font-size: 0.95rem; letter-spacing: 0.02em;
+  text-transform: uppercase; color: var(--muted); text-decoration: none;
+}
+.site-foot {
+  max-width: 42rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem;
+  border-top: 1px solid var(--rule);
+}
+.site-foot a { color: var(--accent); text-decoration: none; font-size: 0.95rem; }
+
+h1 { font-size: 2rem; line-height: 1.2; margin: 0.2rem 0 1rem; }
+h2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--muted); margin: 2rem 0 0.75rem; padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--rule);
+}
+a { color: var(--accent); }
+
+/* Time / Total bold lines */
+p strong:only-child, p > strong:first-child { color: var(--ink); }
+
+/* Ingredient table */
+table {
+  border-collapse: collapse; width: 100%; margin: 0.5rem 0 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.95rem;
+}
+th, td { text-align: left; padding: 0.4rem 0.6rem; border-bottom: 1px solid var(--rule); }
+th { font-weight: 600; color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; }
+td:nth-child(2), td:nth-child(4) { white-space: nowrap; color: var(--muted); }
+
+/* Steps */
+ol { padding-left: 1.3rem; }
+ol li { margin-bottom: 0.6rem; }
+
+/* Recipe index */
+.recipe-list { list-style: none; padding: 0; }
+.recipe-list li { margin: 0; border-bottom: 1px solid var(--rule); }
+.recipe-list a {
+  display: block; padding: 0.85rem 0.25rem; text-decoration: none; color: var(--ink);
+  font-size: 1.15rem;
+}
+.recipe-list a:hover { color: var(--accent); }
+.recipe-list .meta {
+  display: block; font-size: 0.85rem; color: var(--muted);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+.lede { color: var(--muted); font-size: 1.05rem; margin-bottom: 1.5rem; }
+
+/* Phones: let a wide ingredient table scroll instead of overflowing, and
+   ease up the type/padding so nothing feels cramped. */
+@media (max-width: 30rem) {
+  main { padding: 1rem 1rem 2.5rem; }
+  h1 { font-size: 1.6rem; }
+  table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; font-size: 0.9rem; }
+  th, td { padding: 0.35rem 0.45rem; }
+}

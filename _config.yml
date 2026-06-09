@@ -1,0 +1,12 @@
+title: Miri's Kitchen
+description: A handful of recipes worth sharing.
+# No external theme -- the layouts in _layouts/ render everything.
+# GitHub Pages builds this automatically on push.
+
+# Clean URLs without trailing .html
+permalink: pretty
+
+# Don't process these in the build
+exclude:
+  - README.md
+  - publish-recipes
