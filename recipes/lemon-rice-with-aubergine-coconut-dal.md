@@ -9,36 +9,36 @@ permalink: /lemon-rice-with-aubergine-coconut-dal/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|--------|------|------|
-| Aubergine               | 130g | 1 1/2 cup cubes | 32  | 1 |
-| Broccoli                |  85g | 1 cup chopped   | 29  | 1 |
-| Rapeseed oil (roasting) |   5g | 1 tsp           | 44  | 1 |
-| Red lentils             |  55g | 1/4 cup         | 194 | 2 |
-| Water                   | 180g | 3/4 cup         | 0   | 2 |
-| Salt (lentils)          |   2g | 1/3 tsp         | 0   | 2 |
-| Basmati rice            |  42g | 1/4 cup         | 153 | 3 |
-| Shallots                |  40g | 1 shallot       | 29  | 4 |
-| Garlic                  |   9g | 3 cloves        | 13  | 4 |
-| Fresh ginger            |  12g | 2 tbsp grated   | 10  | 4 |
-| Dried chili (dal)       |   2g | 1 chili         | 6   | 4 |
-| Cumin seeds             |   2g | 1 tsp           | 8   | 4 |
-| Ground coriander        |   2g | 1 1/4 tsp       | 6   | 4 |
-| Turmeric (dal)          |   1g | 1/3 tsp         | 3   | 4 |
-| Asafoetida (dal)        | 0.3g | pinch           | 1   | 4 |
-| Rapeseed oil (dal base) |   4g | 1 tsp           | 35  | 4 |
-| Coconut milk            |  38g | 2 1/2 tbsp      | 75  | 6 |
-| Lemon juice (dal)       |  15g | 1 tbsp          | 3   | 6 |
-| Rapeseed oil (tadka)    |   4g | 1 tsp           | 35  | 7 |
-| Mustard seeds           |   2g | 1/2 tsp         | 10  | 7 |
-| Cashews                 |  12g | 10 cashews      | 69  | 7 |
-| Curry leaves            |   1g | 10 leaves       | 1   | 7 |
-| Dried chili (tadka)     |   2g | 1 chili         | 6   | 7 |
-| Asafoetida (tadka)      | 0.3g | pinch           | 1   | 7 |
-| Turmeric (rice)         |   1g | 1/3 tsp         | 3   | 7 |
-| Lemon juice (rice)      |  15g | 1 tbsp          | 3   | 7 |
-| Salt (rice)             | 1.5g | 1/4 tsp         | 0   | 7 |
-| Rapeseed oil (finishing)|   2g | 1/2 tsp         | 18  | 8 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | -------- | ------ |
+| Aubergine | 130g | 1 1/2 cup cubes | 32 |
+| Broccoli | 85g | 1 cup chopped | 29 |
+| Rapeseed oil (roasting) | 5g | 1 tsp | 44 |
+| Red lentils | 55g | 1/4 cup | 194 |
+| Water | 180g | 3/4 cup | 0 |
+| Salt (lentils) | 2g | 1/3 tsp | 0 |
+| Basmati rice | 42g | 1/4 cup | 153 |
+| Shallots | 40g | 1 shallot | 29 |
+| Garlic | 9g | 3 cloves | 13 |
+| Fresh ginger | 12g | 2 tbsp grated | 10 |
+| Dried chili (dal) | 2g | 1 chili | 6 |
+| Cumin seeds | 2g | 1 tsp | 8 |
+| Ground coriander | 2g | 1 1/4 tsp | 6 |
+| Turmeric (dal) | 1g | 1/3 tsp | 3 |
+| Asafoetida (dal) | 0.3g | pinch | 1 |
+| Rapeseed oil (dal base) | 4g | 1 tsp | 35 |
+| Coconut milk | 38g | 2 1/2 tbsp | 75 |
+| Lemon juice (dal) | 15g | 1 tbsp | 3 |
+| Rapeseed oil (tadka) | 4g | 1 tsp | 35 |
+| Mustard seeds | 2g | 1/2 tsp | 10 |
+| Cashews | 12g | 10 cashews | 69 |
+| Curry leaves | 1g | 10 leaves | 1 |
+| Dried chili (tadka) | 2g | 1 chili | 6 |
+| Asafoetida (tadka) | 0.3g | pinch | 1 |
+| Turmeric (rice) | 1g | 1/3 tsp | 3 |
+| Lemon juice (rice) | 15g | 1 tbsp | 3 |
+| Salt (rice) | 1.5g | 1/4 tsp | 0 |
+| Rapeseed oil (finishing) | 2g | 1/2 tsp | 18 |
 
 **Total:** 787 kcal | 27g protein
 

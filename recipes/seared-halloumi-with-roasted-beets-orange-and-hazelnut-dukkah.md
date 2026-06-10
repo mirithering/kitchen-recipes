@@ -9,24 +9,24 @@ permalink: /seared-halloumi-with-roasted-beets-orange-and-hazelnut-dukkah/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|------------|------|------|
-| Beetroot         | 164g | 2 beet     |  71 | 1 |
-| Hazelnuts        |  15g | 2 tbsp     |  94 | 2 |
-| Coriander seeds  |   1g | pinch      |   3 | 2 |
-| Cumin seeds      |   1g | pinch      |   4 | 2 |
-| Fennel seeds     |   1g | pinch      |   3 | 2 |
-| Sesame seeds     |   5g | 1 3/4 tsp  |  29 | 2 |
-| Halloumi         | 100g | 4 slice    | 330 | 4 |
-| Skyr             | 100g | 1/3 cup    |  51 | 5 |
-| Lemon            |  10g | 2 1/4 tsp  |   3 | 5 |
-| Olive Oil        |   5g | 1 tsp      |  44 | 6 |
-| Balsamic Vinegar |   5g | 1 tsp      |   4 | 6 |
-| Honey            |   5g | 3/4 tsp    |  15 | 6 |
-| Sumac            |   1g | pinch      |   3 | 6 |
-| Orange           |  80g | 1/2 orange |  50 | 6 |
-| Olive Oil        |   4g | 1 tsp      |  35 | 7 |
-| Mint             |   2g | to taste   |   1 | 8 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | ------------ | ------ |
+| Beetroot | 164g | 2 beet | 71 |
+| Hazelnuts | 15g | 2 tbsp | 94 |
+| Coriander seeds | 1g | pinch | 3 |
+| Cumin seeds | 1g | pinch | 4 |
+| Fennel seeds | 1g | pinch | 3 |
+| Sesame seeds | 5g | 1 3/4 tsp | 29 |
+| Halloumi | 100g | 4 slice | 330 |
+| Skyr | 100g | 1/3 cup | 51 |
+| Lemon | 10g | 2 1/4 tsp | 3 |
+| Olive Oil | 5g | 1 tsp | 44 |
+| Balsamic Vinegar | 5g | 1 tsp | 4 |
+| Honey | 5g | 3/4 tsp | 15 |
+| Sumac | 1g | pinch | 3 |
+| Orange | 80g | 1/2 orange | 50 |
+| Olive Oil | 4g | 1 tsp | 35 |
+| Mint | 2g | to taste | 1 |
 
 **Total:** 740 kcal | 38g protein
 

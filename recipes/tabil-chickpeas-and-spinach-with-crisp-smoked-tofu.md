@@ -9,23 +9,23 @@ permalink: /tabil-chickpeas-and-spinach-with-crisp-smoked-tofu/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|--------|------|------|
-| Caraway seeds              |   2g | 1 tsp     |   7 | 1 |
-| Cumin seeds                |   2g | 1 tsp     |   8 | 1 |
-| Coriander seeds            |   3g | 1 3/4 tsp |   9 | 1 |
-| Olive oil                  |   9g | 2 tsp     |  80 | 2 |
-| Onion                      |  70g | 1/2 cup   |  28 | 2 |
-| Garlic                     |   9g | 3 cloves  |  13 | 2 |
-| Sweet paprika              |   2g | 1 tsp     |   6 | 2 |
-| Cayenne pepper             | 0.5g | 1/4 tsp   |   2 | 2 |
-| Canned chickpeas           | 125g | 1/2 can   | 172 | 3 |
-| Cherry tomatoes            |  85g | 5 cherry  |  15 | 3 |
-| Water                      |  80g | 1/3 cup   |   0 | 3 |
-| Almond sesame smoked tofu  | 100g | 1/2 block |  98 | 4 |
-| Fresh spinach              | 120g | 4 handfuls|  28 | 5 |
-| Lemon juice                |  15g | 1 tbsp    |   3 | 6 |
-| Olive oil                  |   5g | 1 tsp     |  44 | 6 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | -------- | ------ |
+| Caraway seeds | 2g | 1 tsp | 7 |
+| Cumin seeds | 2g | 1 tsp | 8 |
+| Coriander seeds | 3g | 1 3/4 tsp | 9 |
+| Olive oil | 9g | 2 tsp | 80 |
+| Onion | 70g | 1/2 cup | 28 |
+| Garlic | 9g | 3 cloves | 13 |
+| Sweet paprika | 2g | 1 tsp | 6 |
+| Cayenne pepper | 0.5g | 1/4 tsp | 2 |
+| Canned chickpeas | 125g | 1/2 can | 172 |
+| Cherry tomatoes | 85g | 5 cherry | 15 |
+| Water | 80g | 1/3 cup | 0 |
+| Almond sesame smoked tofu | 100g | 1/2 block | 98 |
+| Fresh spinach | 120g | 4 handfuls | 28 |
+| Lemon juice | 15g | 1 tbsp | 3 |
+| Olive oil | 5g | 1 tsp | 44 |
 
 **Total:** 513 kcal | 26g protein
 

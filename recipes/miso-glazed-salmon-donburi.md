@@ -9,18 +9,18 @@ permalink: /miso-glazed-salmon-donburi/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume     | Kcal | Step |
-|------------|--------|------------|------|------|
-| Salmon       | 140g | 1 fillet   | 183 | 1 |
-| White Rice   |  75g | 1/3 cup    | 270 | 2 |
-| Water        |  85g | 1/3 cup    |   0 | 3 |
-| Red Cabbage  |  80g | 1 cup      |  25 | 4 |
-| Lime Juice   |  15g | 1 tbsp     |   4 | 4 |
-| Sesame Oil   |   5g | 1 tsp      |  44 | 4 |
-| Red Miso     |  15g | 2 3/4 tsp  |  30 | 5 |
-| Maple Syrup  |  10g | 1 1/2 tsp  |  26 | 5 |
-| Fresh Ginger |   5g | 2 1/2 tsp  |   4 | 5 |
-| Dried Chili  | 0.5g | 1/4 tsp    |   2 | 5 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | ------------ | ------ |
+| Salmon | 140g | 1 fillet | 183 |
+| White Rice | 75g | 1/3 cup | 270 |
+| Water | 85g | 1/3 cup | 0 |
+| Red Cabbage | 80g | 1 cup | 25 |
+| Lime Juice | 15g | 1 tbsp | 4 |
+| Sesame Oil | 5g | 1 tsp | 44 |
+| Red Miso | 15g | 2 3/4 tsp | 30 |
+| Maple Syrup | 10g | 1 1/2 tsp | 26 |
+| Fresh Ginger | 5g | 2 1/2 tsp | 4 |
+| Dried Chili | 0.5g | 1/4 tsp | 2 |
 
 **Total:** 588 kcal | 39g protein
 

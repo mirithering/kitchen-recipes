@@ -9,20 +9,20 @@ permalink: /pumpkin-spice-coffee-concentrate/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|--------|------|------|
-| Butternut Squash | 350g | 2 1/2 cup cubes |  158 | 1 |
-| Ground Cloves    | 0.5g | 1/4 tsp         |    1 | 2 |
-| Water            |  20g | 1 1/2 tbsp      |    0 | 3 |
-| Coconut Milk     |  50g | 3 1/2 tbsp      |   98 | 4 |
-| Ground Cinnamon  |   5g | 2 tsp           |   12 | 4 |
-| Ground Allspice  | 1.5g | 3/4 tsp         |    4 | 4 |
-| Fresh Ginger     |  12g | 2 tbsp          |   10 | 5 |
-| Maple Syrup      |  80g | 1/4 cup         |  208 | 5 |
-| Coconut Sugar    |  40g | 3 1/2 tbsp      |  152 | 5 |
-| Lemon Juice      |   8g | 1 1/2 tsp       |    2 | 5 |
-| Vanilla Extract  |   6g | 1 1/2 tsp       |   17 | 6 |
-| Nutmeg           | 0.6g | 1/4 tsp         |    3 | 6 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | -------- | ------ |
+| Butternut Squash | 350g | 2 1/2 cup cubes | 158 |
+| Ground Cloves | 0.5g | 1/4 tsp | 1 |
+| Water | 20g | 1 1/2 tbsp | 0 |
+| Coconut Milk | 50g | 3 1/2 tbsp | 98 |
+| Ground Cinnamon | 5g | 2 tsp | 12 |
+| Ground Allspice | 1.5g | 3/4 tsp | 4 |
+| Fresh Ginger | 12g | 2 tbsp | 10 |
+| Maple Syrup | 80g | 1/4 cup | 208 |
+| Coconut Sugar | 40g | 3 1/2 tbsp | 152 |
+| Lemon Juice | 8g | 1 1/2 tsp | 2 |
+| Vanilla Extract | 6g | 1 1/2 tsp | 17 |
+| Nutmeg | 0.6g | 1/4 tsp | 3 |
 
 **Total:** 665 kcal | 5g protein
 

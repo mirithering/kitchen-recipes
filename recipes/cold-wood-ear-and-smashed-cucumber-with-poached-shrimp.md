@@ -9,21 +9,21 @@ permalink: /cold-wood-ear-and-smashed-cucumber-with-poached-shrimp/
 
 ## Ingredients
 
-| Ingredient        | Weight | Volume     | Kcal | Step |
-|-------------------|--------|------------|------|------|
-| Wood Ear (dried)  |  14g   | 1/2 cup    |  40  | 1    |
-| Cucumber          | 200g   | 2 cup      |  30  | 2    |
-| Cooked Shrimp     | 120g   | 15 shrimp  | 119  | 4    |
-| Garlic            |   6g   | 2 cloves   |   9  | 5    |
-| Fresh Ginger      |  12g   | 2 tbsp     |  10  | 5    |
-| Dried Chili       |   1g   | 1 tsp      |   3  | 5    |
-| Rapeseed Oil      |   7g   | 1 1/2 tsp  |  62  | 5    |
-| Peanut Butter     |  30g   | 2 tbsp     | 177  | 6    |
-| Rice Vinegar      |  15g   | 1 tbsp     |   3  | 6    |
-| Soy Sauce         |  12g   | 2 1/4 tsp  |   6  | 6    |
-| Sugar             |   4g   | 1 tsp      |  15  | 6    |
-| Sesame Oil        |   5g   | 1 tsp      |  44  | 6    |
-| Black Sesame Seeds|   8g   | 2 3/4 tsp  |  46  | 7    |
+| Ingredient | Weight | Volume | Kcal |
+| ------------------- | -------- | ------------ | ------ |
+| Wood Ear (dried) | 14g | 1/2 cup | 40 |
+| Cucumber | 200g | 2 cup | 30 |
+| Cooked Shrimp | 120g | 15 shrimp | 119 |
+| Garlic | 6g | 2 cloves | 9 |
+| Fresh Ginger | 12g | 2 tbsp | 10 |
+| Dried Chili | 1g | 1 tsp | 3 |
+| Rapeseed Oil | 7g | 1 1/2 tsp | 62 |
+| Peanut Butter | 30g | 2 tbsp | 177 |
+| Rice Vinegar | 15g | 1 tbsp | 3 |
+| Soy Sauce | 12g | 2 1/4 tsp | 6 |
+| Sugar | 4g | 1 tsp | 15 |
+| Sesame Oil | 5g | 1 tsp | 44 |
+| Black Sesame Seeds | 8g | 2 3/4 tsp | 46 |
 
 **Total:** 564 kcal | 42g protein
 

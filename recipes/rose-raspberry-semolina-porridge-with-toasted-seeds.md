@@ -9,15 +9,15 @@ permalink: /rose-raspberry-semolina-porridge-with-toasted-seeds/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|--------|------|------|
-| Pumpkin seeds | 12g | 1 1/2 tbsp | 67 | 1 |
-| Soy milk | 250g | 1 cup | 102 | 2 |
-| Semolina | 45g | 1/4 cup | 162 | 2 |
-| Frozen raspberries | 80g | 2/3 cup | 42 | 3 |
-| Honey | 12g | 1 3/4 tsp | 36 | 3 |
-| Egg | 50g | 3 1/2 tbsp | 72 | 4 |
-| Hemp seeds | 10g | 3 tsp | 55 | 5 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | -------- | ------ |
+| Pumpkin seeds | 12g | 1 1/2 tbsp | 67 |
+| Soy milk | 250g | 1 cup | 102 |
+| Semolina | 45g | 1/4 cup | 162 |
+| Frozen raspberries | 80g | 2/3 cup | 42 |
+| Honey | 12g | 1 3/4 tsp | 36 |
+| Egg | 50g | 3 1/2 tbsp | 72 |
+| Hemp seeds | 10g | 3 tsp | 55 |
 
 **Total:** 536 kcal | 27g protein
 

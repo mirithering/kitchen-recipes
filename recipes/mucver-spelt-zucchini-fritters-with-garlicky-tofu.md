@@ -9,18 +9,18 @@ permalink: /mucver-spelt-zucchini-fritters-with-garlicky-tofu/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|--------|------|------|
-| Zucchini       | 200g | 1 medium         |  34 | 1 |
-| Garlic         |   3g | 1 clove          |   4 | 2 |
-| Lemon Juice    |  10g | 2 tsp            |   2 | 2 |
-| Silken Tofu    |  84g | 1 slice          |  52 | 2 |
-| Egg            |  50g | 1 egg            |  72 | 4 |
-| Spelt Flour    |  30g | 3 1/2 tbsp       | 101 | 4 |
-| Swiss Cheese   |  35g | 1/3 cup shredded | 138 | 4 |
-| Shallot        |  30g | 3 tbsp           |  22 | 4 |
-| Dried Dill     |   1g | 1 tsp            |   3 | 4 |
-| Olive Oil      |  14g | 1 tbsp           | 124 | 5 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | -------- | ------ |
+| Zucchini | 200g | 1 medium | 34 |
+| Garlic | 3g | 1 clove | 4 |
+| Lemon Juice | 10g | 2 tsp | 2 |
+| Silken Tofu | 84g | 1 slice | 52 |
+| Egg | 50g | 1 egg | 72 |
+| Spelt Flour | 30g | 3 1/2 tbsp | 101 |
+| Swiss Cheese | 35g | 1/3 cup shredded | 138 |
+| Shallot | 30g | 3 tbsp | 22 |
+| Dried Dill | 1g | 1 tsp | 3 |
+| Olive Oil | 14g | 1 tbsp | 124 |
 
 **Total:** 552 kcal | 29g protein
 

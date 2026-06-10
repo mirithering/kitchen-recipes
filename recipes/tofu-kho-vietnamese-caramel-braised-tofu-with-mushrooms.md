@@ -9,22 +9,22 @@ permalink: /tofu-kho-vietnamese-caramel-braised-tofu-with-mushrooms/
 
 ## Ingredients
 
-| Ingredient      | Weight | Volume     | Kcal | Step |
-| --------------- | ------ | ---------- | ---- | ---- |
-| Firm Tofu       | 200g   | 1 block    | 170  | 1    |
-| White Rice      | 65g    | 1/3 cup    | 234  | 2    |
-| Rapeseed Oil    | 10g    | 2 1/4 tsp  | 88   | 3    |
-| Sugar           | 15g    | 3 1/2 tsp  | 58   | 4    |
-| Water           | 120g   | 1/2 cup    | 0    | 5    |
-| White Onion     | 60g    | 1/2 medium | 24   | 5    |
-| Ginger          | 10g    | 1 1/2 tbsp | 8    | 5    |
-| Coconut Milk    | 30g    | 2 tbsp     | 59   | 5    |
-| Fish Sauce      | 15g    | 2 1/2 tsp  | 5    | 5    |
-| Soy Sauce       | 8g     | 1 1/2 tsp  | 4    | 5    |
-| Fresh Mushrooms | 100g   | 1 1/2 cup  | 22   | 6    |
-| Dried Chili     | 1g     | pinch      | 3    | 6    |
-| Black Pepper    | 1g     | pinch      | 3    | 6    |
-| Fresh Spinach   | 80g    | 2 1/2 cup  | 18   | 7    |
+| Ingredient | Weight | Volume | Kcal |
+| --------------- | ------ | ---------- | ---- |
+| Firm Tofu | 200g | 1 block | 170 |
+| White Rice | 65g | 1/3 cup | 234 |
+| Rapeseed Oil | 10g | 2 1/4 tsp | 88 |
+| Sugar | 15g | 3 1/2 tsp | 58 |
+| Water | 120g | 1/2 cup | 0 |
+| White Onion | 60g | 1/2 medium | 24 |
+| Ginger | 10g | 1 1/2 tbsp | 8 |
+| Coconut Milk | 30g | 2 tbsp | 59 |
+| Fish Sauce | 15g | 2 1/2 tsp | 5 |
+| Soy Sauce | 8g | 1 1/2 tsp | 4 |
+| Fresh Mushrooms | 100g | 1 1/2 cup | 22 |
+| Dried Chili | 1g | pinch | 3 |
+| Black Pepper | 1g | pinch | 3 |
+| Fresh Spinach | 80g | 2 1/2 cup | 18 |
 
 **Total:** 696 kcal | 35g protein
 

@@ -9,17 +9,17 @@ permalink: /caramelized-pineapple-skyr-bowl-with-maple-seed-crumble/
 
 ## Ingredients
 
-| Ingredient       | Weight | Volume      | Kcal | Step |
-|------------------|--------|-------------|------|------|
-| Frozen pineapple | 180g   | 3/4 cup     | 155  | 1    |
-| Frozen mango     |  60g   | 1/3 cup     |  36  | 1    |
-| Pumpkin seeds    |  12g   | 1 1/2 tbsp  |  67  | 2    |
-| Sunflower seeds  |  18g   | 2 tbsp      | 105  | 2    |
-| Sesame seeds     |   8g   | 1 tbsp      |  46  | 2    |
-| Maple syrup      |   8g   | 1/2 tbsp    |  21  | 2    |
-| Maple syrup      |  14g   | 3/4 tbsp    |  36  | 3    |
-| Lime             |  30g   | 1/2 fruit   |   9  | 3    |
-| Skyr             | 250g   | 1 cup       | 128  | 4    |
+| Ingredient | Weight | Volume | Kcal |
+| ------------------ | -------- | ------------- | ------ |
+| Frozen pineapple | 180g | 3/4 cup | 155 |
+| Frozen mango | 60g | 1/3 cup | 36 |
+| Pumpkin seeds | 12g | 1 1/2 tbsp | 67 |
+| Sunflower seeds | 18g | 2 tbsp | 105 |
+| Sesame seeds | 8g | 1 tbsp | 46 |
+| Maple syrup | 8g | 1/2 tbsp | 21 |
+| Maple syrup | 14g | 3/4 tbsp | 36 |
+| Lime | 30g | 1/2 fruit | 9 |
+| Skyr | 250g | 1 cup | 128 |
 
 **Total:** 603 kcal | 33g protein
 

@@ -9,20 +9,20 @@ permalink: /cold-soba-with-poached-shrimp-and-lime-chili-dressing/
 
 ## Ingredients
 
-| Ingredient         | Weight | Volume         | Kcal | Step |
-|--------------------|--------|----------------|------|------|
-| Cucumber           | 100g   | 1 cup sliced   |  15  | 2    |
-| Red Cabbage        |  70g   | 1 cup shredded |  22  | 2    |
-| Garlic             |   6g   | 2 clove        |   9  | 3    |
-| Ginger             |   8g   | 1 1/2 tsp grated |   6  | 3    |
-| Dried Chili        |   1g   | 1/2 tsp flake  |   3  | 3    |
-| Lime               |  67g   | 1 fruit        |  20  | 3    |
-| Fish Sauce         |  15g   | 3/4 tbsp       |   5  | 3    |
-| Honey              |   7g   | 1 tsp          |  21  | 3    |
-| Shrimp             | 130g   | 10 medium      | 110  | 4    |
-| Soba Noodles       |  80g   | 1 thumb bundle | 269  | 5    |
-| Black Sesame Seeds |   5g   | 1 3/4 tsp      |  29  | 6    |
-| Sesame Oil         |   5g   | 1 tsp          |  44  | 6    |
+| Ingredient | Weight | Volume | Kcal |
+| -------------------- | -------- | ---------------- | ------ |
+| Cucumber | 100g | 1 cup sliced | 15 |
+| Red Cabbage | 70g | 1 cup shredded | 22 |
+| Garlic | 6g | 2 clove | 9 |
+| Ginger | 8g | 1 1/2 tsp grated | 6 |
+| Dried Chili | 1g | 1/2 tsp flake | 3 |
+| Lime | 67g | 1 fruit | 20 |
+| Fish Sauce | 15g | 3/4 tbsp | 5 |
+| Honey | 7g | 1 tsp | 21 |
+| Shrimp | 130g | 10 medium | 110 |
+| Soba Noodles | 80g | 1 thumb bundle | 269 |
+| Black Sesame Seeds | 5g | 1 3/4 tsp | 29 |
+| Sesame Oil | 5g | 1 tsp | 44 |
 
 **Total:** 553 kcal | 42g protein
 

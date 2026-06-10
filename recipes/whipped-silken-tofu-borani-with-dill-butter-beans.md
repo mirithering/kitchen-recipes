@@ -9,20 +9,20 @@ permalink: /whipped-silken-tofu-borani-with-dill-butter-beans/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|------------|------|------|
-| Silken Tofu    | 200g  | drained    | 124 | 1 |
-| Lemon Juice    |  10g  | 2 tsp      |   2 | 1 |
-| Dried Dill     | 1.5g  | 1 1/2 tsp  |   4 | 1 |
-| Salt           |   1g  | pinch      |   0 | 1 |
-| Pumpkin Seeds  |  20g  | 2 1/2 tbsp | 112 | 2 |
-| Olive Oil      |   8g  | 1/2 tbsp   |  71 | 3 |
-| Garlic         |   3g  | 1 clove    |   4 | 3 |
-| Dried Dill     | 1.5g  | 1 1/2 tsp  |   4 | 3 |
-| Butter Beans   | 240g  | 1 can      | 190 | 3 |
-| Olive Oil      |   7g  | 1/2 tbsp   |  62 | 4 |
-| Sumac          | 1.5g  | pinch      |   4 | 4 |
-| Cayenne Pepper | 0.3g  | pinch      |   1 | 4 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | ------------ | ------ |
+| Silken Tofu | 200g | drained | 124 |
+| Lemon Juice | 10g | 2 tsp | 2 |
+| Dried Dill | 1.5g | 1 1/2 tsp | 4 |
+| Salt | 1g | pinch | 0 |
+| Pumpkin Seeds | 20g | 2 1/2 tbsp | 112 |
+| Olive Oil | 8g | 1/2 tbsp | 71 |
+| Garlic | 3g | 1 clove | 4 |
+| Dried Dill | 1.5g | 1 1/2 tsp | 4 |
+| Butter Beans | 240g | 1 can | 190 |
+| Olive Oil | 7g | 1/2 tbsp | 62 |
+| Sumac | 1.5g | pinch | 4 |
+| Cayenne Pepper | 0.3g | pinch | 1 |
 
 **Total:** 578 kcal | 33g protein
 

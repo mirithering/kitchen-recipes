@@ -9,18 +9,18 @@ permalink: /apple-dutch-baby-with-cinnamon-and-skyr/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|--------|------|------|
-| Egg                   | 100g | 2 large   | 143 | 2 |
-| Soy Milk              |  90g | 1/3 cup   |  37 | 2 |
-| Spelt Wholemeal Flour |  40g | 1/3 cup   | 135 | 2 |
-| Vanilla Extract       |   2g | 1/2 tsp   |   6 | 2 |
-| Ground Cinnamon       | 0.5g | 1/4 tsp   |   1 | 2 |
-| Nutmeg                | 0.2g | pinch     |   1 | 2 |
-| Rapeseed Oil          |   8g | 1 3/4 tsp |  71 | 3 |
-| Green Apple           | 128g | 3/4 medium |  67 | 3 |
-| Maple Syrup           |  15g | 2 1/4 tsp |  39 | 3 |
-| Skyr                  |  80g | 1/3 cup   |  41 | 5 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | -------- | ------ |
+| Egg | 100g | 2 large | 143 |
+| Soy Milk | 90g | 1/3 cup | 37 |
+| Spelt Wholemeal Flour | 40g | 1/3 cup | 135 |
+| Vanilla Extract | 2g | 1/2 tsp | 6 |
+| Ground Cinnamon | 0.5g | 1/4 tsp | 1 |
+| Nutmeg | 0.2g | pinch | 1 |
+| Rapeseed Oil | 8g | 1 3/4 tsp | 71 |
+| Green Apple | 128g | 3/4 medium | 67 |
+| Maple Syrup | 15g | 2 1/4 tsp | 39 |
+| Skyr | 80g | 1/3 cup | 41 |
 
 **Total:** 541 kcal | 29g protein
 

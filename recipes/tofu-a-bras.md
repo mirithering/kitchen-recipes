@@ -9,18 +9,18 @@ permalink: /tofu-a-bras/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume      | Kcal | Step |
-|------------|--------|-------------|------|------|
-| Firm Tofu  | 150g   | 3/4 block   | 128  | 1    |
-| Sweet Potato | 150g | 1 cup       | 129  | 2    |
-| Olive Oil  |   5g   | 1 tsp       |  44  | 2    |
-| White Onion | 120g  | 3/4 medium  |  48  | 3    |
-| Olive Oil  |   9g   | 2 tsp       |  80  | 3    |
-| Garlic     |   9g   | 3 cloves    |  13  | 3    |
-| Egg        | 100g   | 2 large     | 143  | 5    |
-| Black Olives | 20g  | 4-5 large   |  23  | 7    |
-| Dried Parsley | 1g  | 2 tsp       |   3  | 7    |
-| Lemon      |  10g   | 1 wedge     |   3  | 7    |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | ------------- | ------ |
+| Firm Tofu | 150g | 3/4 block | 128 |
+| Sweet Potato | 150g | 1 cup | 129 |
+| Olive Oil | 5g | 1 tsp | 44 |
+| White Onion | 120g | 3/4 medium | 48 |
+| Olive Oil | 9g | 2 tsp | 80 |
+| Garlic | 9g | 3 cloves | 13 |
+| Egg | 100g | 2 large | 143 |
+| Black Olives | 20g | 4-5 large | 23 |
+| Dried Parsley | 1g | 2 tsp | 3 |
+| Lemon | 10g | 1 wedge | 3 |
 
 **Total:** 614 kcal | 34g protein
 

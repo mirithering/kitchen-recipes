@@ -9,20 +9,20 @@ permalink: /blueberry-hazelnut-baked-oatmeal/
 
 ## Ingredients
 
-| Ingredient | Weight | Volume | Kcal | Step |
-|------------|--------|--------|------|------|
-| Hazelnuts          | 15g | 2 tbsp chopped | 94 | 1 |
-| Egg                | 50g | 1 medium       | 72 | 2 |
-| Soy Milk           | 150g | 1/2 cup       | 62 | 2 |
-| Almond Butter      | 15g | 1 tbsp         | 92 | 2 |
-| Maple Syrup        | 15g | 3/4 tbsp       | 39 | 2 |
-| Vanilla Extract    | 2g  | 1/2 tsp        |  6 | 2 |
-| Orange Zest        | 2g  | 1/2 tsp        |  0 | 2 |
-| Salt               | 1g  | pinch          |  0 | 2 |
-| Rolled Oats        | 50g | 2/3 cup        | 190 | 3 |
-| Hemp Seeds         | 15g | 1 1/2 tbsp     | 83 | 3 |
-| Frozen Blueberries | 80g | 1/2 cup        | 41 | 3 |
-| Rapeseed Oil       | 2g  | 1/2 tsp        | 18 | 4 |
+| Ingredient | Weight | Volume | Kcal |
+| ------------ | -------- | -------- | ------ |
+| Hazelnuts | 15g | 2 tbsp chopped | 94 |
+| Egg | 50g | 1 medium | 72 |
+| Soy Milk | 150g | 1/2 cup | 62 |
+| Almond Butter | 15g | 1 tbsp | 92 |
+| Maple Syrup | 15g | 3/4 tbsp | 39 |
+| Vanilla Extract | 2g | 1/2 tsp | 6 |
+| Orange Zest | 2g | 1/2 tsp | 0 |
+| Salt | 1g | pinch | 0 |
+| Rolled Oats | 50g | 2/3 cup | 190 |
+| Hemp Seeds | 15g | 1 1/2 tbsp | 83 |
+| Frozen Blueberries | 80g | 1/2 cup | 41 |
+| Rapeseed Oil | 2g | 1/2 tsp | 18 |
 
 **Total:** 697 kcal | 27g protein
 

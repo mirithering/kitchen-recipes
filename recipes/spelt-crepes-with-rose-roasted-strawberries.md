@@ -9,21 +9,21 @@ permalink: /spelt-crepes-with-rose-roasted-strawberries/
 
 ## Ingredients
 
-| Ingredient          | Weight | Volume    | Kcal | Step |
-|---------------------|--------|-----------|------|------|
-| Spelt Flour         |  45g   | 1/3 cup   | 152  | 1    |
-| Manioc Starch       |   8g   | 2 3/4 tsp |  29  | 1    |
-| Egg                 |  50g   | 1 large   |  72  | 1    |
-| Oat Milk            | 130g   | 1/2 cup   |  58  | 1    |
-| Salt                |   1g   | pinch     |   0  | 1    |
-| Frozen Strawberries | 140g   | 3/4 cup   |  49  | 2    |
-| Honey               |   8g   | 1 1/4 tsp |  24  | 2    |
-| Rose Water          |   1g   | 1/4 tsp   |   0  | 2    |
-| Skyr                | 150g   | 2/3 cup   |  76  | 3    |
-| Honey               |   7g   | 1 tsp     |  21  | 3    |
-| Vanilla Extract     |   2g   | 1/2 tsp   |   0  | 3    |
-| Rapeseed Oil        |   5g   | 1 tsp     |  44  | 4    |
-| Pistachios          |  15g   | 2 tbsp    |  84  | 5    |
+| Ingredient | Weight | Volume | Kcal |
+| --------------------- | -------- | ----------- | ------ |
+| Spelt Flour | 45g | 1/3 cup | 152 |
+| Manioc Starch | 8g | 2 3/4 tsp | 29 |
+| Egg | 50g | 1 large | 72 |
+| Oat Milk | 130g | 1/2 cup | 58 |
+| Salt | 1g | pinch | 0 |
+| Frozen Strawberries | 140g | 3/4 cup | 49 |
+| Honey | 8g | 1 1/4 tsp | 24 |
+| Rose Water | 1g | 1/4 tsp | 0 |
+| Skyr | 150g | 2/3 cup | 76 |
+| Honey | 7g | 1 tsp | 21 |
+| Vanilla Extract | 2g | 1/2 tsp | 0 |
+| Rapeseed Oil | 5g | 1 tsp | 44 |
+| Pistachios | 15g | 2 tbsp | 84 |
 
 **Total:** 609 kcal | 31g protein
 
