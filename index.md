@@ -10,6 +10,8 @@ permalink: /
 <ul class="recipe-list">
   <li><a href="{{ "/apple-dutch-baby-with-cinnamon-and-skyr/" | relative_url }}">Apple Dutch Baby with Cinnamon and Skyr<span class="meta">15 min active / 40 min total &middot; 541 kcal | 29g protein</span></a></li>
   <li><a href="{{ "/blueberry-hazelnut-baked-oatmeal/" | relative_url }}">Blueberry-Hazelnut Baked Oatmeal<span class="meta">10 min active / 35 min total &middot; 697 kcal | 27g protein</span></a></li>
+  <li><a href="{{ "/blueberry-raspberry-kissel-with-whipped-tofu-cream/" | relative_url }}">Blueberry-Raspberry Kissel with Whipped Tofu Cream<span class="meta">15 min active / 20 min total &middot; 542 kcal | 31g protein</span></a></li>
+  <li><a href="{{ "/burmese-shan-tofu-salad/" | relative_url }}">Burmese Shan Tofu Salad<span class="meta">35 min active / 80 min total &middot; 635 kcal | 26g protein</span></a></li>
   <li><a href="{{ "/caramelized-pineapple-skyr-bowl-with-maple-seed-crumble/" | relative_url }}">Caramelized Pineapple Skyr Bowl with Maple Seed Crumble<span class="meta">20 min active / 35 min total &middot; 603 kcal | 33g protein</span></a></li>
   <li><a href="{{ "/cold-soba-with-poached-shrimp-and-lime-chili-dressing/" | relative_url }}">Cold Soba with Poached Shrimp and Lime-Chili Dressing<span class="meta">25 min active / 30 min total &middot; 553 kcal | 42g protein</span></a></li>
   <li><a href="{{ "/cold-wood-ear-and-smashed-cucumber-with-poached-shrimp/" | relative_url }}">Cold Wood Ear and Smashed Cucumber with Poached Shrimp<span class="meta">15 min active / 30 min total &middot; 564 kcal | 42g protein</span></a></li>
@@ -19,9 +21,11 @@ permalink: /
   <li><a href="{{ "/pumpkin-spice-coffee-concentrate/" | relative_url }}">Pumpkin Spice Coffee Concentrate<span class="meta">20 min active / 55 min total &middot; 665 kcal | 5g protein</span></a></li>
   <li><a href="{{ "/rose-raspberry-semolina-porridge-with-toasted-seeds/" | relative_url }}">Rose-Raspberry Semolina Porridge with Toasted Seeds<span class="meta">12 min active / 12 min total &middot; 536 kcal | 27g protein</span></a></li>
   <li><a href="{{ "/seared-halloumi-with-roasted-beets-orange-and-hazelnut-dukkah/" | relative_url }}">Seared Halloumi with Roasted Beets, Orange and Hazelnut Dukkah<span class="meta">30 min active / 70 min total &middot; 740 kcal | 38g protein</span></a></li>
+  <li><a href="{{ "/soy-oat-porridge-with-rhubarb-ginger-compote/" | relative_url }}">Soy-Oat Porridge with Rhubarb-Ginger Compote<span class="meta">20 min active / 25 min total &middot; 589 kcal | 35g protein</span></a></li>
   <li><a href="{{ "/spelt-crepes-with-rose-roasted-strawberries/" | relative_url }}">Spelt Crepes with Rose-Roasted Strawberries<span class="meta">20 min active / 30 min total &middot; 609 kcal | 31g protein</span></a></li>
   <li><a href="{{ "/tabil-chickpeas-and-spinach-with-crisp-smoked-tofu/" | relative_url }}">Tabil Chickpeas and Spinach with Crisp Smoked Tofu<span class="meta">25 min active / 30 min total &middot; 513 kcal | 26g protein</span></a></li>
   <li><a href="{{ "/tofu-a-bras/" | relative_url }}">Tofu a Bras<span class="meta">20 min active / 30 min total &middot; 614 kcal | 34g protein</span></a></li>
   <li><a href="{{ "/tofu-kho-vietnamese-caramel-braised-tofu-with-mushrooms/" | relative_url }}">Tofu Kho -- Vietnamese Caramel-Braised Tofu with Mushrooms<span class="meta">30 min active / 50 min total &middot; 696 kcal | 35g protein</span></a></li>
+  <li><a href="{{ "/tofu-tinga-with-pickled-red-onion/" | relative_url }}">Tofu Tinga with Pickled Red Onion<span class="meta">25 min active / 30 min total &middot; 749 kcal | 33g protein</span></a></li>
   <li><a href="{{ "/whipped-silken-tofu-borani-with-dill-butter-beans/" | relative_url }}">Whipped Silken Tofu Borani with Dill Butter Beans<span class="meta">20 min active / 60 min total &middot; 578 kcal | 33g protein</span></a></li>
 </ul>
