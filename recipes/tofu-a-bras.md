@@ -22,7 +22,7 @@ permalink: /tofu-a-bras/
 | Dried Parsley | 1g | 2 tsp | 3 |
 | Lemon | 10g | 1 wedge | 3 |
 
-**Total:** 614 kcal | 34g protein
+**Total:** 614 kcal \| 34g protein
 
 ## Steps
 

@@ -22,7 +22,7 @@ permalink: /apple-dutch-baby-with-cinnamon-and-skyr/
 | Maple Syrup | 15g | 2 1/4 tsp | 39 |
 | Skyr | 80g | 1/3 cup | 41 |
 
-**Total:** 541 kcal | 29g protein
+**Total:** 541 kcal \| 29g protein
 
 ## Steps
 

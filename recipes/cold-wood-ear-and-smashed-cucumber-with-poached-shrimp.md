@@ -25,7 +25,7 @@ permalink: /cold-wood-ear-and-smashed-cucumber-with-poached-shrimp/
 | Sesame Oil | 5g | 1 tsp | 44 |
 | Black Sesame Seeds | 8g | 2 3/4 tsp | 46 |
 
-**Total:** 564 kcal | 42g protein
+**Total:** 564 kcal \| 42g protein
 
 ## Steps
 

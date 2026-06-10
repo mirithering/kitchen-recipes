@@ -40,7 +40,7 @@ permalink: /lemon-rice-with-aubergine-coconut-dal/
 | Salt (rice) | 1.5g | 1/4 tsp | 0 |
 | Rapeseed oil (finishing) | 2g | 1/2 tsp | 18 |
 
-**Total:** 787 kcal | 27g protein
+**Total:** 787 kcal \| 27g protein
 
 ## Steps
 

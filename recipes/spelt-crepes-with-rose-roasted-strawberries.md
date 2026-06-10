@@ -25,7 +25,7 @@ permalink: /spelt-crepes-with-rose-roasted-strawberries/
 | Rapeseed Oil | 5g | 1 tsp | 44 |
 | Pistachios | 15g | 2 tbsp | 84 |
 
-**Total:** 609 kcal | 31g protein
+**Total:** 609 kcal \| 31g protein
 
 ## Steps
 

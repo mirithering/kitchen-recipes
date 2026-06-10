@@ -26,7 +26,7 @@ permalink: /tofu-kho-vietnamese-caramel-braised-tofu-with-mushrooms/
 | Black Pepper | 1g | pinch | 3 |
 | Fresh Spinach | 80g | 2 1/2 cup | 18 |
 
-**Total:** 696 kcal | 35g protein
+**Total:** 696 kcal \| 35g protein
 
 ## Steps
 

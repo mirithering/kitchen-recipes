@@ -24,7 +24,7 @@ permalink: /blueberry-hazelnut-baked-oatmeal/
 | Frozen Blueberries | 80g | 1/2 cup | 41 |
 | Rapeseed Oil | 2g | 1/2 tsp | 18 |
 
-**Total:** 697 kcal | 27g protein
+**Total:** 697 kcal \| 27g protein
 
 ## Steps
 

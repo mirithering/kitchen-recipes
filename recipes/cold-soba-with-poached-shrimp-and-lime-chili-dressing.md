@@ -24,7 +24,7 @@ permalink: /cold-soba-with-poached-shrimp-and-lime-chili-dressing/
 | Black Sesame Seeds | 5g | 1 3/4 tsp | 29 |
 | Sesame Oil | 5g | 1 tsp | 44 |
 
-**Total:** 553 kcal | 42g protein
+**Total:** 553 kcal \| 42g protein
 
 ## Steps
 

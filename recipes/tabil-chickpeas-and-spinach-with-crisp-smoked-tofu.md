@@ -27,7 +27,7 @@ permalink: /tabil-chickpeas-and-spinach-with-crisp-smoked-tofu/
 | Lemon juice | 15g | 1 tbsp | 3 |
 | Olive oil | 5g | 1 tsp | 44 |
 
-**Total:** 513 kcal | 26g protein
+**Total:** 513 kcal \| 26g protein
 
 ## Steps
 

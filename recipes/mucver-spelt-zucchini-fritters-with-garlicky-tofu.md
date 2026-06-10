@@ -22,7 +22,7 @@ permalink: /mucver-spelt-zucchini-fritters-with-garlicky-tofu/
 | Dried Dill | 1g | 1 tsp | 3 |
 | Olive Oil | 14g | 1 tbsp | 124 |
 
-**Total:** 552 kcal | 29g protein
+**Total:** 552 kcal \| 29g protein
 
 ## Steps
 

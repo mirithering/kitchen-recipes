@@ -22,7 +22,7 @@ permalink: /miso-glazed-salmon-donburi/
 | Fresh Ginger | 5g | 2 1/2 tsp | 4 |
 | Dried Chili | 0.5g | 1/4 tsp | 2 |
 
-**Total:** 588 kcal | 39g protein
+**Total:** 588 kcal \| 39g protein
 
 ## Steps
 

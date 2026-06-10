@@ -21,7 +21,7 @@ permalink: /caramelized-pineapple-skyr-bowl-with-maple-seed-crumble/
 | Lime | 30g | 1/2 fruit | 9 |
 | Skyr | 250g | 1 cup | 128 |
 
-**Total:** 603 kcal | 33g protein
+**Total:** 603 kcal \| 33g protein
 
 ## Steps
 

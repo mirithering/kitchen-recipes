@@ -24,7 +24,7 @@ permalink: /pumpkin-spice-coffee-concentrate/
 | Vanilla Extract | 6g | 1 1/2 tsp | 17 |
 | Nutmeg | 0.6g | 1/4 tsp | 3 |
 
-**Total:** 665 kcal | 5g protein
+**Total:** 665 kcal \| 5g protein
 
 ## Steps
 

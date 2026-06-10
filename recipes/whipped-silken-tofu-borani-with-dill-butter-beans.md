@@ -24,7 +24,7 @@ permalink: /whipped-silken-tofu-borani-with-dill-butter-beans/
 | Sumac | 1.5g | pinch | 4 |
 | Cayenne Pepper | 0.3g | pinch | 1 |
 
-**Total:** 578 kcal | 33g protein
+**Total:** 578 kcal \| 33g protein
 
 ## Steps
 

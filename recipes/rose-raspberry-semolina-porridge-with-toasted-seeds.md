@@ -19,7 +19,7 @@ permalink: /rose-raspberry-semolina-porridge-with-toasted-seeds/
 | Egg | 50g | 3 1/2 tbsp | 72 |
 | Hemp seeds | 10g | 3 tsp | 55 |
 
-**Total:** 536 kcal | 27g protein
+**Total:** 536 kcal \| 27g protein
 
 ## Steps
 

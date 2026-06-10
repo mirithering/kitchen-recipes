@@ -28,7 +28,7 @@ permalink: /seared-halloumi-with-roasted-beets-orange-and-hazelnut-dukkah/
 | Olive Oil | 4g | 1 tsp | 35 |
 | Mint | 2g | to taste | 1 |
 
-**Total:** 740 kcal | 38g protein
+**Total:** 740 kcal \| 38g protein
 
 ## Steps
 
