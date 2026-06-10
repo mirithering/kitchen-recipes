@@ -4,3 +4,151 @@ layout: default
 <article class="recipe">
   {{ content }}
 </article>
+<script>
+// Portion scaler -- mirrors the tablet's scale logic (app.py: scale_volume,
+// _num_g, kcal rounding). 0.5x-6.0x in 0.5 steps. Scales the ingredient
+// table (weight/volume/kcal) and the Total line; steps/notes untouched.
+// Pure client-side; with JS off the page just shows the 1x recipe.
+(function () {
+  var article = (document.currentScript &&
+    document.currentScript.previousElementSibling) ||
+    document.querySelector('article.recipe');
+  if (!article || article.tagName !== 'ARTICLE') {
+    article = document.querySelector('article.recipe');
+  }
+  if (!article) return;
+  var table = article.querySelector('table');
+  if (!table) return;
+
+  // Locate columns by header text.
+  var heads = [].map.call(table.querySelectorAll('tr:first-child th, thead th'),
+    function (th) { return th.textContent.trim().toLowerCase(); });
+  function col(name) {
+    for (var i = 0; i < heads.length; i++)
+      if (heads[i].indexOf(name) !== -1) return i;
+    return -1;
+  }
+  var wi = col('weight'), vi = col('volume'), ki = col('kcal');
+  if (wi < 0 && vi < 0 && ki < 0) return;
+
+  var rows = [].slice.call(table.querySelectorAll('tbody tr'));
+  if (!rows.length) rows = [].slice.call(table.querySelectorAll('tr')).slice(1);
+  rows.forEach(function (tr) {
+    var c = tr.children;
+    [wi, vi, ki].forEach(function (idx) {
+      if (idx >= 0 && c[idx]) c[idx].dataset.base = c[idx].textContent.trim();
+    });
+  });
+
+  // Total line: "Total: 614 kcal | 34g protein".
+  var totalEl = null, totalKcal = 0, totalPro = null;
+  [].forEach.call(article.querySelectorAll('p'), function (p) {
+    if (totalEl) return;
+    var t = p.textContent;
+    if (/total/i.test(t) && /(\d+)\s*kcal/i.test(t)) {
+      totalEl = p;
+      totalKcal = +t.match(/(\d+)\s*kcal/i)[1];
+      var mp = t.match(/(\d+)\s*g\s*pro/i);
+      totalPro = mp ? +mp[1] : null;
+    }
+  });
+
+  // --- math ported from app.py ---
+  // Python's round()/'%.1f' use banker's rounding (half-to-even); match it so
+  // the web numbers are identical to the tablet's.
+  function rhe(x) {
+    var f = Math.floor(x), d = x - f;
+    if (d < 0.5) return f;
+    if (d > 0.5) return f + 1;
+    return (f % 2 === 0) ? f : f + 1;
+  }
+  function round1(x) { return rhe(x * 10) / 10; }
+  function gcd(a, b) { while (b) { var t = b; b = a % b; a = t; } return a || 1; }
+  function limitDen(x, maxD) {
+    var best = { n: Math.round(x), d: 1 }, bestErr = Math.abs(x - Math.round(x));
+    for (var d = 1; d <= maxD; d++) {
+      var n = Math.round(x * d), err = Math.abs(x - n / d);
+      if (err < bestErr - 1e-9) { bestErr = err; best = { n: n, d: d }; }
+    }
+    var g = gcd(Math.abs(best.n), best.d);
+    return { n: best.n / g, d: best.d / g };
+  }
+  function fmtFrac(num, unit) {
+    if (num === Math.floor(num)) return Math.floor(num) + ' ' + unit;
+    var f = limitDen(num, 8);
+    if (f.d === 1) return f.n + ' ' + unit;
+    if (f.n > f.d) {
+      var w = Math.floor(f.n / f.d);
+      return w + ' ' + (f.n - w * f.d) + '/' + f.d + ' ' + unit;
+    }
+    return f.n + '/' + f.d + ' ' + unit;
+  }
+  function scaleVolume(s, factor) {
+    if (!s) return s;
+    var m;
+    if ((m = s.match(/^(\d+)\s+(\d+)\/(\d+)\s+(.+)$/)))
+      return fmtFrac((+m[1] * +m[3] + +m[2]) * factor / +m[3], m[4]);
+    if ((m = s.match(/^(\d+)\/(\d+)\s+(.+)$/)))
+      return fmtFrac(+m[1] * factor / +m[2], m[3]);
+    if ((m = s.match(/^(\d+(?:\.\d+)?)\s+(.+)$/))) {
+      var n = parseFloat(m[1]) * factor;
+      return (n === Math.floor(n) ? String(Math.floor(n)) : round1(n).toFixed(1)) + ' ' + m[2];
+    }
+    if ((m = s.match(/^(\d+)-(\d+)\s+(.+)$/)))
+      return rhe(+m[1] * factor) + '-' + rhe(+m[2] * factor) + ' ' + m[3];
+    return s;
+  }
+  function numG(x) {
+    var r = round1(x);
+    return (r === Math.floor(r)) ? Math.floor(r) : r;
+  }
+
+  function apply(factor) {
+    rows.forEach(function (tr) {
+      var c = tr.children, m;
+      if (wi >= 0 && c[wi] && (m = c[wi].dataset.base.match(/^(\d+(?:\.\d+)?)\s*g\b(.*)$/i)))
+        c[wi].textContent = numG(parseFloat(m[1]) * factor) + 'g' + (m[2] || '');
+      if (vi >= 0 && c[vi])
+        c[vi].textContent = scaleVolume(c[vi].dataset.base, factor);
+      if (ki >= 0 && c[ki] && (m = c[ki].dataset.base.match(/(\d+)/)))
+        c[ki].textContent = rhe(parseInt(m[1], 10) * factor);
+    });
+    if (totalEl) {
+      var html = '<strong>Total:</strong> ' + rhe(totalKcal * factor) + ' kcal';
+      if (totalPro != null) html += ' | ' + rhe(totalPro * factor) + 'g protein';
+      totalEl.innerHTML = html;
+    }
+  }
+
+  // --- control ---
+  var factor = 1, MIN = 0.5, MAX = 6;
+  var bar = document.createElement('div');
+  bar.className = 'scaler';
+  var minus = document.createElement('button');
+  minus.type = 'button'; minus.className = 'scaler-btn';
+  minus.textContent = '−'; minus.setAttribute('aria-label', 'Smaller portion');
+  var val = document.createElement('span'); val.className = 'scaler-val';
+  var plus = document.createElement('button');
+  plus.type = 'button'; plus.className = 'scaler-btn';
+  plus.textContent = '+'; plus.setAttribute('aria-label', 'Larger portion');
+  var lbl = document.createElement('span');
+  lbl.className = 'scaler-label'; lbl.textContent = 'portion';
+  bar.appendChild(minus); bar.appendChild(val); bar.appendChild(plus); bar.appendChild(lbl);
+
+  function fmtF(f) { return (f === Math.floor(f) ? f : f.toFixed(1)) + '×'; }
+  function render() {
+    val.textContent = fmtF(factor);
+    minus.disabled = factor <= MIN;
+    plus.disabled = factor >= MAX;
+    apply(factor);
+  }
+  minus.addEventListener('click', function () {
+    factor = Math.max(MIN, Math.round((factor - 0.5) * 10) / 10); render();
+  });
+  plus.addEventListener('click', function () {
+    factor = Math.min(MAX, Math.round((factor + 0.5) * 10) / 10); render();
+  });
+  table.parentNode.insertBefore(bar, table);
+  render();
+})();
+</script>

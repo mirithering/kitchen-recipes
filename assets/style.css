@@ -73,6 +73,21 @@ ol li { margin-bottom: 0.6rem; }
 }
 .lede { color: var(--muted); font-size: 1.05rem; margin-bottom: 1.5rem; }
 
+/* Portion scaler (recipe pages) */
+.scaler {
+  display: flex; align-items: center; gap: 0.5rem; margin: 1.5rem 0 0.75rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+.scaler-btn {
+  width: 2rem; height: 2rem; padding: 0; border: 1px solid var(--rule);
+  border-radius: 0.4rem; background: #fff; color: var(--ink);
+  font-size: 1.2rem; line-height: 1; cursor: pointer;
+}
+.scaler-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.scaler-btn:disabled { opacity: 0.35; cursor: default; }
+.scaler-val { min-width: 2.6rem; text-align: center; font-weight: 700; font-size: 1.05rem; }
+.scaler-label { color: var(--muted); font-size: 0.85rem; }
+
 /* Phones: let a wide ingredient table scroll instead of overflowing, and
    ease up the type/padding so nothing feels cramped. */
 @media (max-width: 30rem) {
