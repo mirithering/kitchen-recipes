@@ -15,6 +15,22 @@
   </main>
   <footer class="site-foot">
     <a href="{{ '/' | relative_url }}">&larr; All recipes</a>
+    <span class="foot-sep">&middot;</span>
+    <a href="{{ '/datenschutz/' | relative_url }}">Datenschutz</a>
+    <span class="foot-sep">&middot;</span>
+    <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
   </footer>
+  <script>
+    // Assemble obfuscated email addresses at runtime so scrapers see no
+    // usable mailto. Without JS the <noscript> "[at]/[dot]" fallback shows.
+    document.querySelectorAll('.email').forEach(function (el) {
+      var addr = el.dataset.u + '@' + el.dataset.d;
+      var a = document.createElement('a');
+      a.href = 'mailto:' + addr;
+      a.textContent = addr;
+      el.textContent = '';
+      el.appendChild(a);
+    });
+  </script>
 </body>
 </html>
